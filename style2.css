@@ -1,0 +1,26 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-image: linear-gradient(
+    to top right,
+    rgb(230, 230, 230),
+    rgb(220, 161, 161)
+  );
+}
+.container-fluid{
+  padding: 30px;
+}
+.navbar-brand{
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+}
+.nav-link {
+  color: black;
+}
+
+.hero {
+  width: 500px;
+}
+.btn-lg:hover {
+  background-color: brown;
+}
